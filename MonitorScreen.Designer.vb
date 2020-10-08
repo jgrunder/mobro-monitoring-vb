@@ -30,7 +30,7 @@ Partial Class MonitorScreen
         Me.webView.Location = New System.Drawing.Point(0, 0)
         Me.webView.Name = "webView"
         Me.webView.Size = New System.Drawing.Size(1024, 600)
-        Me.webView.Source = New System.Uri("http://localhost:42100/?uuid=MoBro", System.UriKind.Absolute)
+        Me.webView.Source = New System.Uri("http://localhost", System.UriKind.Absolute)
         Me.webView.TabIndex = 0
         Me.webView.Text = "Monitoring"
         Me.webView.ZoomFactor = 1.0R
