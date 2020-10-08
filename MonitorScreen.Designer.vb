@@ -46,7 +46,7 @@ Partial Class MonitorScreen
         Me.Name = "MonitorScreen"
         Me.ShowIcon = False
         Me.ShowInTaskbar = False
-        Me.Text = "Form1"
+        Me.Text = "MoBro Monitoring VB"
         Me.ResumeLayout(False)
 
     End Sub
