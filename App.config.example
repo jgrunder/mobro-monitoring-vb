@@ -5,5 +5,9 @@
     </startup>
     <appSettings file="App.config">
       <add key="url" value="http://localhost:42100/?uuid=MoBro"/>
+      <!-- Screen info -->
+      <add key="screen_id" value="0"/>
+      <add key="screen_width" value="1024"/>
+      <add key="screen_height" value="600"/>
     </appSettings>
 </configuration>
